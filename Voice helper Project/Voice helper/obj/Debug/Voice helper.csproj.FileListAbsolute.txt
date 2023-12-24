@@ -1,0 +1,58 @@
+C:\Users\Serhii\source\repos\Voice helper\Voice helper\bin\Debug\Voice helper.exe.config
+C:\Users\Serhii\source\repos\Voice helper\Voice helper\bin\Debug\Voice helper.exe
+C:\Users\Serhii\source\repos\Voice helper\Voice helper\bin\Debug\Voice helper.pdb
+C:\Users\Serhii\source\repos\Voice helper\Voice helper\obj\Debug\Voice helper.csprojAssemblyReference.cache
+C:\Users\Serhii\source\repos\Voice helper\Voice helper\obj\Debug\Voice_helper.Form1.resources
+C:\Users\Serhii\source\repos\Voice helper\Voice helper\obj\Debug\Voice_helper.Properties.Resources.resources
+C:\Users\Serhii\source\repos\Voice helper\Voice helper\obj\Debug\Voice helper.csproj.GenerateResource.cache
+C:\Users\Serhii\source\repos\Voice helper\Voice helper\obj\Debug\Voice helper.csproj.CoreCompileInputs.cache
+C:\Users\Serhii\source\repos\Voice helper\Voice helper\obj\Debug\Voice helper.exe
+C:\Users\Serhii\source\repos\Voice helper\Voice helper\obj\Debug\Voice helper.pdb
+C:\Users\Serhii\source\repos\Voice helper\Voice helper\bin\Debug\Microsoft.Speech.dll
+C:\Users\Serhii\source\repos\Voice helper\Voice helper\obj\Debug\Voice helper.csproj.CopyComplete
+C:\Users\serhii\Documents\Visual Studio 2017\Projects\Voice helper\Voice helper\bin\Debug\Voice helper.exe.config
+C:\Users\serhii\Documents\Visual Studio 2017\Projects\Voice helper\Voice helper\bin\Debug\Voice helper.exe
+C:\Users\serhii\Documents\Visual Studio 2017\Projects\Voice helper\Voice helper\bin\Debug\Voice helper.pdb
+C:\Users\serhii\Documents\Visual Studio 2017\Projects\Voice helper\Voice helper\bin\Debug\Microsoft.Speech.dll
+C:\Users\serhii\Documents\Visual Studio 2017\Projects\Voice helper\Voice helper\obj\Debug\Voice helper.csprojAssemblyReference.cache
+C:\Users\serhii\Documents\Visual Studio 2017\Projects\Voice helper\Voice helper\obj\Debug\Voice_helper.Form1.resources
+C:\Users\serhii\Documents\Visual Studio 2017\Projects\Voice helper\Voice helper\obj\Debug\Voice_helper.Properties.Resources.resources
+C:\Users\serhii\Documents\Visual Studio 2017\Projects\Voice helper\Voice helper\obj\Debug\Voice helper.csproj.GenerateResource.cache
+C:\Users\serhii\Documents\Visual Studio 2017\Projects\Voice helper\Voice helper\obj\Debug\Voice helper.csproj.CoreCompileInputs.cache
+C:\Users\serhii\Documents\Visual Studio 2017\Projects\Voice helper\Voice helper\obj\Debug\Voice helper.csproj.CopyComplete
+C:\Users\serhii\Documents\Visual Studio 2017\Projects\Voice helper\Voice helper\obj\Debug\Voice helper.exe
+C:\Users\serhii\Documents\Visual Studio 2017\Projects\Voice helper\Voice helper\obj\Debug\Voice helper.pdb
+C:\Users\Workstation\source\repos\Voice helper\Voice helper\bin\Debug\Voice helper.exe.config
+C:\Users\Workstation\source\repos\Voice helper\Voice helper\bin\Debug\Voice helper.exe
+C:\Users\Workstation\source\repos\Voice helper\Voice helper\bin\Debug\Voice helper.pdb
+C:\Users\Workstation\source\repos\Voice helper\Voice helper\bin\Debug\Microsoft.Speech.dll
+C:\Users\Workstation\source\repos\Voice helper\Voice helper\obj\Debug\Voice helper.csprojAssemblyReference.cache
+C:\Users\Workstation\source\repos\Voice helper\Voice helper\obj\Debug\Voice_helper.Form1.resources
+C:\Users\Workstation\source\repos\Voice helper\Voice helper\obj\Debug\Voice_helper.Properties.Resources.resources
+C:\Users\Workstation\source\repos\Voice helper\Voice helper\obj\Debug\Voice helper.csproj.GenerateResource.cache
+C:\Users\Workstation\source\repos\Voice helper\Voice helper\obj\Debug\Voice helper.csproj.CoreCompileInputs.cache
+C:\Users\Workstation\source\repos\Voice helper\Voice helper\obj\Debug\Voice helper.csproj.CopyComplete
+C:\Users\Workstation\source\repos\Voice helper\Voice helper\obj\Debug\Voice helper.exe
+C:\Users\Workstation\source\repos\Voice helper\Voice helper\obj\Debug\Voice helper.pdb
+C:\Users\sj\Downloads\JJ_speech_recognition\Voice helper\Voice helper\Voice helper\bin\Debug\Voice helper.exe.config
+C:\Users\sj\Downloads\JJ_speech_recognition\Voice helper\Voice helper\Voice helper\bin\Debug\Voice helper.exe
+C:\Users\sj\Downloads\JJ_speech_recognition\Voice helper\Voice helper\Voice helper\bin\Debug\Voice helper.pdb
+C:\Users\sj\Downloads\JJ_speech_recognition\Voice helper\Voice helper\Voice helper\obj\Debug\Voice helper.csproj.AssemblyReference.cache
+C:\Users\sj\Downloads\JJ_speech_recognition\Voice helper\Voice helper\Voice helper\obj\Debug\Voice helper.csproj.SuggestedBindingRedirects.cache
+C:\Users\sj\Downloads\JJ_speech_recognition\Voice helper\Voice helper\Voice helper\obj\Debug\Voice_helper.Form1.resources
+C:\Users\sj\Downloads\JJ_speech_recognition\Voice helper\Voice helper\Voice helper\obj\Debug\Voice_helper.Properties.Resources.resources
+C:\Users\sj\Downloads\JJ_speech_recognition\Voice helper\Voice helper\Voice helper\obj\Debug\Voice helper.csproj.GenerateResource.cache
+C:\Users\sj\Downloads\JJ_speech_recognition\Voice helper\Voice helper\Voice helper\obj\Debug\Voice helper.csproj.CoreCompileInputs.cache
+C:\Users\sj\Downloads\JJ_speech_recognition\Voice helper\Voice helper\Voice helper\obj\Debug\Voice helper.exe
+C:\Users\sj\Downloads\JJ_speech_recognition\Voice helper\Voice helper\Voice helper\obj\Debug\Voice helper.pdb
+E:\YDrive\myProject\C_Sharp\JJ2023\Voice helper JJProject\Voice helper\bin\Debug\Voice helper.exe.config
+E:\YDrive\myProject\C_Sharp\JJ2023\Voice helper JJProject\Voice helper\bin\Debug\Voice helper.exe
+E:\YDrive\myProject\C_Sharp\JJ2023\Voice helper JJProject\Voice helper\bin\Debug\Voice helper.pdb
+E:\YDrive\myProject\C_Sharp\JJ2023\Voice helper JJProject\Voice helper\bin\Debug\Microsoft.Speech.dll
+E:\YDrive\myProject\C_Sharp\JJ2023\Voice helper JJProject\Voice helper\obj\Debug\Voice_helper.Form1.resources
+E:\YDrive\myProject\C_Sharp\JJ2023\Voice helper JJProject\Voice helper\obj\Debug\Voice_helper.Properties.Resources.resources
+E:\YDrive\myProject\C_Sharp\JJ2023\Voice helper JJProject\Voice helper\obj\Debug\Voice helper.csproj.GenerateResource.cache
+E:\YDrive\myProject\C_Sharp\JJ2023\Voice helper JJProject\Voice helper\obj\Debug\Voice helper.csproj.CoreCompileInputs.cache
+E:\YDrive\myProject\C_Sharp\JJ2023\Voice helper JJProject\Voice helper\obj\Debug\Voice helper.csproj.CopyComplete
+E:\YDrive\myProject\C_Sharp\JJ2023\Voice helper JJProject\Voice helper\obj\Debug\Voice helper.exe
+E:\YDrive\myProject\C_Sharp\JJ2023\Voice helper JJProject\Voice helper\obj\Debug\Voice helper.pdb

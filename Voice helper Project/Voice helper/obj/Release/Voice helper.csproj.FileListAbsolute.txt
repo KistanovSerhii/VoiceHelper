@@ -1,0 +1,22 @@
+C:\Users\sj\Downloads\JJ_speech_recognition\Voice helper\Voice helper\Voice helper\bin\Release\Voice helper.exe.config
+C:\Users\sj\Downloads\JJ_speech_recognition\Voice helper\Voice helper\Voice helper\bin\Release\Voice helper.exe
+C:\Users\sj\Downloads\JJ_speech_recognition\Voice helper\Voice helper\Voice helper\bin\Release\Voice helper.pdb
+C:\Users\sj\Downloads\JJ_speech_recognition\Voice helper\Voice helper\Voice helper\obj\Release\Voice helper.csproj.AssemblyReference.cache
+C:\Users\sj\Downloads\JJ_speech_recognition\Voice helper\Voice helper\Voice helper\obj\Release\Voice helper.csproj.SuggestedBindingRedirects.cache
+C:\Users\sj\Downloads\JJ_speech_recognition\Voice helper\Voice helper\Voice helper\obj\Release\Voice_helper.Form1.resources
+C:\Users\sj\Downloads\JJ_speech_recognition\Voice helper\Voice helper\Voice helper\obj\Release\Voice_helper.Properties.Resources.resources
+C:\Users\sj\Downloads\JJ_speech_recognition\Voice helper\Voice helper\Voice helper\obj\Release\Voice helper.csproj.GenerateResource.cache
+C:\Users\sj\Downloads\JJ_speech_recognition\Voice helper\Voice helper\Voice helper\obj\Release\Voice helper.csproj.CoreCompileInputs.cache
+C:\Users\sj\Downloads\JJ_speech_recognition\Voice helper\Voice helper\Voice helper\obj\Release\Voice helper.exe
+C:\Users\sj\Downloads\JJ_speech_recognition\Voice helper\Voice helper\Voice helper\obj\Release\Voice helper.pdb
+E:\YDrive\myProject\C_Sharp\JJ2023\Voice helper JJProject\Voice helper\bin\Release\Voice helper.exe.config
+E:\YDrive\myProject\C_Sharp\JJ2023\Voice helper JJProject\Voice helper\bin\Release\Voice helper.exe
+E:\YDrive\myProject\C_Sharp\JJ2023\Voice helper JJProject\Voice helper\bin\Release\Voice helper.pdb
+E:\YDrive\myProject\C_Sharp\JJ2023\Voice helper JJProject\Voice helper\bin\Release\Microsoft.Speech.dll
+E:\YDrive\myProject\C_Sharp\JJ2023\Voice helper JJProject\Voice helper\obj\Release\Voice_helper.Form1.resources
+E:\YDrive\myProject\C_Sharp\JJ2023\Voice helper JJProject\Voice helper\obj\Release\Voice_helper.Properties.Resources.resources
+E:\YDrive\myProject\C_Sharp\JJ2023\Voice helper JJProject\Voice helper\obj\Release\Voice helper.csproj.GenerateResource.cache
+E:\YDrive\myProject\C_Sharp\JJ2023\Voice helper JJProject\Voice helper\obj\Release\Voice helper.csproj.CoreCompileInputs.cache
+E:\YDrive\myProject\C_Sharp\JJ2023\Voice helper JJProject\Voice helper\obj\Release\Voice helper.csproj.CopyComplete
+E:\YDrive\myProject\C_Sharp\JJ2023\Voice helper JJProject\Voice helper\obj\Release\Voice helper.exe
+E:\YDrive\myProject\C_Sharp\JJ2023\Voice helper JJProject\Voice helper\obj\Release\Voice helper.pdb
